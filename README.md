@@ -26,7 +26,7 @@
 11. [GLENBROOK 支付行业培训](ch11.md)
 12. [附录](appendix.md)
 
-
 ## LICENSE
 
-[CC-BY 4.0](LICENSE.md)
+[CC-BY 4.0](https://github.com/lich0079/payments_systems_in_the_US/tree/3b95cd136d622610b515a3694adcad5a467297f1/LICENSE.md)
+

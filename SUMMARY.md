@@ -1,6 +1,6 @@
 # Table of contents
 
-* [简介](README.md)
+* [美国支付系统 - 中文翻译](README.md)
 * [介绍](ch1.md)
 * [支付系统综述](ch2.md)
 * [核心系统：支票](ch3.md)
